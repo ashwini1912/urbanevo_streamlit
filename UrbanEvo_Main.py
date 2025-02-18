@@ -30,4 +30,4 @@ st.image("static/final_2.gif", caption="Comparison of 5 year Ground Truths and p
 
 st.markdown("""
     ### Want to learn more?
-    - 👈 Check out the data/training pipelines used for the model & the results!
+    - 👈 Check out the data/training pipelines used for the model & the results!""")
