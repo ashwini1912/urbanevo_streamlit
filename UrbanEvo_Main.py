@@ -31,4 +31,3 @@ st.image("static/final_2.gif", caption="Comparison of 5 year Ground Truths and p
 st.markdown("""
     ### Want to learn more?
     - 👈 Check out the data/training pipelines used for the model & the results!
-    - [Urbanization Prediction Design Doc](https://docs.google.com/document/d/1sxwRH3sk4-VaiC89gXi0qXMhR-NKMK9nZuR5ymyfjbo/edit?usp=sharing)""")
