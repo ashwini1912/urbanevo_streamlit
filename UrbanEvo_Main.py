@@ -36,10 +36,13 @@ st.markdown("""
 st.markdown("""
     ### Want to see the predictions in action?""")
 st.page_link("https://ee-mayuresh.projects.earthengine.app/view/urban-evo-demo", label="Check Out the Visualization in the interactive Earth Engine app!", icon="🌎")
-st.page_link("pages/4_Results.py", label=st.markdown("""
-    ### Want to see the predictions in action?"""), icon="🌎")
+st.page_link("pages/4_Results.py", label="", icon="🌎")
 st.markdown("""
     ### Want to learn more?
     - [🌎 View prediction results here!](pages/4_Results.py)""")
+st.markdown("""
+The official repository is [:link: Check Out the Visualization in the interactive Earth Engine app!](https://ee-mayuresh.projects.earthengine.app/view/urban-evo-demo)
+The official repository is [:link: View the prediction results here!](pages/4_Results.py")
+""")
 
 
