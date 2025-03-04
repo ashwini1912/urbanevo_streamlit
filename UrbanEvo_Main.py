@@ -27,15 +27,16 @@ st.markdown(
     **Urban-Evo model predicts the probability of urbanization across locations over the next five year period.**
     It uses geospatial climatic, vegatation & population growth data from earth engine to predict urbanization.""")
 st.image("static/final_2.gif", caption="Comparison of 5 year Ground Truths and predictions for cities in Maharashtra")
-st.page_link("https://ee-mayuresh.projects.earthengine.app/view/urban-evo-demo", label="Check Out the Visualization in the interactive Earth Engine app!", icon="🌎")
-st.page_link("pages/4_Results.py", label="View the prediction results here!", icon="🌎")
+
+
 st.markdown("""
     ### Want to learn more?
     - 👈 Check out the data/training pipelines used for the model & the results!
     - st.page_link("pages/4_Results.py", label="Check out the prediction results!", icon="🌎") """)
 st.markdown("""
-    ### Want to learn more?
-    - [🌎 Check Out the Visualization in the interactive Earth Engine app!](pages/4_Results.py)""")
+    ### Want to see the predictions in action?""")
+st.page_link("https://ee-mayuresh.projects.earthengine.app/view/urban-evo-demo", label="Check Out the Visualization in the interactive Earth Engine app!", icon="🌎")
+st.page_link("pages/4_Results.py", label="View the prediction results here!", icon="🌎")
 st.markdown("""
     ### Want to learn more?
     - [🌎 View prediction results here!](pages/4_Results.py)""")
