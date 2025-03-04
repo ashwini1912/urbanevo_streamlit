@@ -41,8 +41,8 @@ st.markdown("""
     ### Want to learn more?
     - [🌎 View prediction results here!](pages/4_Results.py)""")
 st.markdown("""
-The official repository is [:link: Check Out the Visualization in the interactive Earth Engine app!](https://ee-mayuresh.projects.earthengine.app/view/urban-evo-demo)
-The official repository is [:link: View the prediction results here!](pages/4_Results.py")
+[:link: Check Out the Visualization in the interactive Earth Engine app!](https://ee-mayuresh.projects.earthengine.app/view/urban-evo-demo)
+[:link: View the prediction results here!](pages/4_Results.py")
 """)
 
 
