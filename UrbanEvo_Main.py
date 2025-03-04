@@ -35,4 +35,5 @@ st.markdown("""
 st.markdown("""
     ### Want to learn more?
     - [Check Out the Visualization in the interactive Earth Engine app!](pages/4_Results.py)""")
-st.page_link("pages/4_Results.py", label="Check out the prediction results!", icon="🌎")
+st.page_link("pages/4_Results.py", label="- View the predictions here!", icon="🌎")
+
