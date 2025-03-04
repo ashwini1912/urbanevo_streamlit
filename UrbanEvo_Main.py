@@ -1,7 +1,7 @@
 # Urban Evo - Demo
 
 import streamlit as st
-
+st.set_page_config(layout="wide")
 
 st.set_page_config(
     page_title="Urban Evo Main",
