@@ -36,7 +36,7 @@ st.markdown("""
 st.markdown("""
     ### Want to see the predictions in action?""")
 st.page_link("https://ee-mayuresh.projects.earthengine.app/view/urban-evo-demo", label="Check Out the Visualization in the interactive Earth Engine app!", icon="🌎")
-st.page_link("pages/4_Results.py", label="[:link: <u> View the prediction results here!<u>]", icon="🌎")
+st.page_link("pages/4_Results.py", label="<u>[:link:  View the prediction results here!]<u>", icon="🌎")
 st.markdown("""
     ### Want to learn more?
     - [🌎 View prediction results here!](pages/4_Results.py)""")
