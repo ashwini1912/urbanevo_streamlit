@@ -42,7 +42,8 @@ st.markdown("""
     - [🌎 View prediction results here!](pages/4_Results.py)""")
 st.markdown("""
 [:link: Check Out the Visualization in the interactive Earth Engine app!](https://ee-mayuresh.projects.earthengine.app/view/urban-evo-demo)
-[:link: View the prediction results here!](pages/4_Results.py")
+""")
+st.markdown("""[:link: View the prediction results here!](pages/4_Results.py")
 """)
 
 
