@@ -31,4 +31,7 @@ st.image("static/final_2.gif", caption="Comparison of 5 year Ground Truths and p
 st.markdown("""
     ### Want to learn more?
     - 👈 Check out the data/training pipelines used for the model & the results!""")
-    - st.page_link("pages/4_Results.py.py", label="Check out the prediction results!", icon="🌎")
+st.markdown("""
+    ### Want to learn more?
+    - [Check Out the Visualization in the interactive Earth Engine app!](pages/4_Results.py)
+st.page_link("pages/4_Results.py", label="Check out the prediction results!", icon="🌎")
